@@ -1,0 +1,12 @@
+.game-card {
+    height: 75vh;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.card-header {
+    color: blue;
+    border-color: aqua;
+    text-decoration-line: underline;
+    text-transform: uppercase;
+}
+
